@@ -9,3 +9,11 @@ Paper: https://arxiv.org/abs/2204.01691
 ## Instructions
 
 This is a self-contained implementation of SayCan on a table top environment. It should run by running each cell in order.
+
+## QUICK START
+
+Step 1. Register for an OpenAI API key to use GPT-3 (there's a free trial) and enter it below
+
+Step 2. Menu > Change runtime type > Hardware accelerator > "GPU"
+
+Step 3. Menu > Runtime > Run all
