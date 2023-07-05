@@ -17,3 +17,12 @@ Step 1. Register for an OpenAI API key to use GPT-3 (there's a free trial) and e
 Step 2. Menu > Change runtime type > Hardware accelerator > "GPU"
 
 Step 3. Menu > Runtime > Run all
+
+----
+## Summer Annual Conference of IEIE, 2023
+
+- A paper analyzing the performance of using the SayCan simulator to generate plans using GPT models and Chain-of-thought prompts. 
+
+- [paper](https://github.com/ohnghb99/tabletop-SayCan/blob/main/2023_paper_hyobinong.pdf)
+
+- The full chain-of-thought prompts used in the experiment can be found [here](https://github.com/ohnghb99/tabletop-SayCan/blob/main/Chain-of-thought%20prompt.md).
